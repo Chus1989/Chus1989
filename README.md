@@ -3,7 +3,7 @@
 
 I am a **CHARACTER TD and PYTHON DEV**, with experience in **Rigging, Character TD, and Development**. I love learning new technologies, solving complex problems, and contributing to meaningful projects.
 
-- 🔭 Currently working on: **SHOPPING LIST**.  
+- 🔭 Currently working on: **Tequila works**.  
 - 🌱 Currently learning: **Design patterns, HTML, Flask, Python**.  
 - 💬 Ask me about: **Python development**.  
 - 📫 How to reach me: **jjoyas89@gmail.com**.  
